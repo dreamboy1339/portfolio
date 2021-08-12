@@ -1,9 +1,11 @@
 # 프로젝트
 
-## 마카롱 택시([https://play.google.com/store/apps/details?id=kst.macaron.chauffeur](https://play.google.com/store/apps/details?id=kst.macaron.chauffeur))
+## 마카롱 택시
 
 - KST 모빌리티
 - 마카롱 기사 앱 개발 및 유지 보수.
+    - [https://play.google.com/store/apps/details?id=kst.macaron.chauffeur](https://play.google.com/store/apps/details?id=kst.macaron.chauffeur)
+
 - 사용 기술
     - Kotlin, Java
     - Firebase - Crashlytics, App Distribution, Analytics, FCM
@@ -19,18 +21,6 @@
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f7cd6ec-bb3c-45f2-94d6-133c20fbc7b2/Untitled.png)
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7bbd2215-f70a-4fbb-a34f-9f69e637fc8a/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a906fde7-f0af-4b6d-880b-cc09734bee68/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/03e1485e-f445-4ed6-9b72-16afbefa26fd/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec5d0f60-1fad-45d1-af3b-57e514172beb/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e1d27c11-119d-432d-bbe3-c69611a1143f/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/01b13d90-3dd5-40e4-b954-2ea5ae4a6424/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd45d05b-2bbf-48be-91dd-8aac8b9ae87f/Untitled.png)
 
 ## 나우웨이팅
 
