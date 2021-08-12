@@ -84,7 +84,7 @@
 - 멀티미디어 3rd 파티 업체와의 협업 및 이슈 대응.
 - [https://youtu.be/TRG9usdJWJ4](https://youtu.be/TRG9usdJWJ4?t=35)
 
-<img src="/image/m10.jpg" width="20%" height="20%"> <img src="/image/m11.png" width="20%" height="20%">
+<img src="/image/m12.png" width="20%" height="20%"> <img src="/image/m11.png" width="20%" height="20%">
 <img src="/image/m1.png" width="20%" height="20%"> <img src="/image/m2.png" width="20%" height="20%"> <img src="/image/m3.png" width="20%" height="20%">
 <img src="/image/m4.png" width="20%" height="20%"> <img src="/image/m5.png" width="20%" height="20%"> <img src="/image/m6.png" width="20%" height="20%">
 <img src="/image/m7.png" width="20%" height="20%"> <img src="/image/m8.png" width="20%" height="20%"> <img src="/image/m9.png" width="20%" height="20%">
