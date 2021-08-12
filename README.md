@@ -109,3 +109,5 @@
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f03e7a1f-afff-41ae-a294-5f4ed24b8e0a/Untitled.png)
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6da13319-1b50-4d4f-924d-e91529a28f6a/Untitled.png)
+
+![https://youtu.be/TRG9usdJWJ4?t=35](https://youtu.be/TRG9usdJWJ4?t=35)
