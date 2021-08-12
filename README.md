@@ -82,7 +82,7 @@
 - 안드로이드 스마트폰 뮤직 플레이어 개발 및 유지 보수.
 - 국내(SKT), 북미 및 일본 시장용 스마트폰 멀티미디어 통신사 스펙 시험 진행 및 해외 업무 대응.
 - 멀티미디어 3rd 파티 업체와의 협업 및 이슈 대응.
-- ![https://youtu.be/TRG9usdJWJ4](https://youtu.be/TRG9usdJWJ4?t=35)
+- [https://youtu.be/TRG9usdJWJ4](https://youtu.be/TRG9usdJWJ4?t=35)
 
 <img src="/image/m1.png" width="20%" height="20%"> <img src="/image/m2.png" width="20%" height="20%"> <img src="/image/m3.png" width="20%" height="20%">
 <img src="/image/m4.png" width="20%" height="20%"> <img src="/image/m5.png" width="20%" height="20%"> <img src="/image/m6.png" width="20%" height="20%">
