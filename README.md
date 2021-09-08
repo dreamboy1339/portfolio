@@ -8,13 +8,13 @@
 
 - 사용 기술
     - 언어: Kotlin
-    - 버전관리: Gitlab
+    - 아키텍처: MVVM; AAC ViewModel, LiveData + DataBinding + DI(Hilt)
     - ConstraintLayout, RecyclerView, MDC
     - Coroutines, RxAndroid, RxBinding4 
-    - 아키텍처: MVVM = AAC ViewModel, LiveData + DataBinding + DI(Hilt)
     - Firebase: Crashlytics, App Distribution, Google Analytics, FCM
     - 네트워크: Retrofit, Okhttp, gRPC, Protobuf
     - 라이브러리: Glide, Lottie, Gson, jackson, stetho, strikt, leakcanary, kotlin-coroutines-test, inavi-maps-sdk, inavi-navigation-sdk
+    - 버전관리 및 배포: Gitlab(관리), Firebase App Distribution(배포)
     - 이슈 분석 및 도구: Sentry, Kibana 
 
 <img src="/image/macaron1.png" width="20%" height="20%"></img> <img src="/image/macaron2.png" width="20%" height="20%"></img> <img src="/image/macaron3.png" width="20%" height="20%"></img>
@@ -35,15 +35,15 @@
     - [https://youtu.be/CC_2aRE1bdw?t=6](https://youtu.be/CC_2aRE1bdw?t=6)
 
 - 사용 기술
-    - Kotlin, Java
-    - Git, Github, CircleCI
-    - AndroidX - core-ktx, appcompat, cardview, preference, constraintlayout, multidex, annotation
-    - Google Material
-    - AAC - ViewModel, LiveData, Room, DataBinding
-    - Firebase - Crashlytics, App Distribution, Analytics, FCM
-    - Retrofit, Okhttp
-    - Glide, Lottie, Gson, EventBus, flexbox, circleimageview, fresco, stetho, leakcanary, mockito, uiautomator, logger, debug-db
-    - Sentry, Fabric, NewRelic
+    - 언어: Kotlin, Java
+    - 아키텍처: MVP, MVVM; AAC ViewModel, LiveData + DataBinding
+    - ConstraintLayout, RecyclerView, Preference, MDC
+    - DataBase: Room
+    - Firebase: Crashlytics, App Distribution, Analytics, FCM
+    - 네트워크: Retrofit, Okhttp
+    - 라이브러리: Glide, Lottie, Gson, EventBus, flexbox, circleimageview, fresco, stetho, leakcanary, mockito, uiautomator
+    - 버전관리 및 배포: Github(관리), CircleCI(CI 도구)
+    - 이슈 분석 및 도구: Sentry, Fabric, NewRelic
 
 <img src="/image/nw2.png" width="20%" height="20%"> <img src="/image/nw3.png" width="20%" height="20%"> <img src="/image/nw4.png" width="20%" height="20%">
 
