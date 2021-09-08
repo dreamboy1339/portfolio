@@ -11,6 +11,7 @@
     - 아키텍처: MVVM; AAC ViewModel, LiveData + DataBinding + DI(Hilt)
     - ConstraintLayout, RecyclerView, MDC
     - Coroutines, RxAndroid, RxBinding4 
+    - Database: Room 
     - Firebase: Crashlytics, App Distribution, Google Analytics, FCM
     - 네트워크: Retrofit, Okhttp, gRPC, Protobuf
     - 라이브러리: Glide, Lottie, Gson, jackson, stetho, strikt, leakcanary, kotlin-coroutines-test, inavi-maps-sdk, inavi-navigation-sdk
@@ -59,6 +60,7 @@
     - 언어: Java
     - 아키텍처: MVC 
     - RecyclerView, Exifinterface, ConstraintLayout 
+    - Database: SQLite 
     - Firebase: Crashlytics, App Distribution, FCM
     - 네트워크: Retrofit, Okhttp
     - 라이브러리
