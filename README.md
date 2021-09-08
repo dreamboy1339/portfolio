@@ -7,19 +7,15 @@
     - [https://play.google.com/store/apps/details?id=kst.macaron.chauffeur](https://play.google.com/store/apps/details?id=kst.macaron.chauffeur)
 
 - 사용 기술
-    - Kotlin, Java, Kotlin DSL
-    - Git, Github -> Gitlab
-    - kotlin-serialization-json
-    - androidx - multidex, annotation, appcompat, cardview, constraintlayout, legacy-support-v4, recyclerview, core-ktx, viewmodel-ktx, room-ktx, fragment-ktx, activity-ktx, lifecycle-livedata-ktx
-    - AAC - ViewModel, LiveData, Room, DataBinding
-    - Google Material
-    - GMS - base, auth-api-phone, location
-    - Firebase - Crashlytics, App Distribution, Analytics, FCM
-    - Retrofit, Okhttp, gRPC, Protobuf
-    - Kotlin coroutines, RxAndroid, RxBinding3
-    - Hilt
-    - Glide, Lottie, Gson, jackson, inavi-maps-sdk, inavi-navigation-sdk, android-crop, logger, stetho, strikt, leakcanary, kotlin-coroutines-test
-    - Sentry, Kibana, Braze, Appsflyer, Adbrix
+    - 언어: Kotlin
+    - 버전관리: Gitlab
+    - ConstraintLayout, RecyclerView, MDC
+    - Coroutines, RxAndroid, RxBinding4 
+    - 아키텍처: MVVM = AAC ViewModel, LiveData + DataBinding + DI(Hilt)
+    - Firebase: Crashlytics, App Distribution, Google Analytics, FCM
+    - 네트워크: Retrofit, Okhttp, gRPC, Protobuf
+    - 라이브러리: Glide, Lottie, Gson, jackson, stetho, strikt, leakcanary, kotlin-coroutines-test, inavi-maps-sdk, inavi-navigation-sdk
+    - 이슈 분석 및 도구: Sentry, Kibana 
 
 <img src="/image/macaron1.png" width="20%" height="20%"></img> <img src="/image/macaron2.png" width="20%" height="20%"></img> <img src="/image/macaron3.png" width="20%" height="20%"></img>
 
