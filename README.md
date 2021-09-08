@@ -14,7 +14,7 @@
     - Firebase: Crashlytics, App Distribution, Google Analytics, FCM
     - 네트워크: Retrofit, Okhttp, gRPC, Protobuf
     - 라이브러리: Glide, Lottie, Gson, jackson, stetho, strikt, leakcanary, kotlin-coroutines-test, inavi-maps-sdk, inavi-navigation-sdk
-    - 버전관리 및 배포: Gitlab(관리), Firebase App Distribution(배포)
+    - 버전 관리 및 배포: 관리(Gitlab), CI/CD(GitLab Runner, Firebase App Distribution)
     - 이슈 분석 및 도구: Sentry, Kibana 
 
 <img src="/image/macaron1.png" width="20%" height="20%"></img> <img src="/image/macaron2.png" width="20%" height="20%"></img> <img src="/image/macaron3.png" width="20%" height="20%"></img>
@@ -42,7 +42,7 @@
     - Firebase: Crashlytics, App Distribution, Analytics, FCM
     - 네트워크: Retrofit, Okhttp
     - 라이브러리: Glide, Lottie, Gson, EventBus, flexbox, circleimageview, fresco, stetho, leakcanary, mockito, uiautomator
-    - 버전관리 및 배포: Github(관리), CircleCI(CI 도구)
+    - 버전 관리 및 배포: 관리(Github), CI/CD(CircleCI, Firebase App Distribution)
     - 이슈 분석 및 도구: Sentry, Fabric, NewRelic
 
 <img src="/image/nw2.png" width="20%" height="20%"> <img src="/image/nw3.png" width="20%" height="20%"> <img src="/image/nw4.png" width="20%" height="20%">
@@ -56,21 +56,23 @@
     - [https://youtu.be/vjYpCTEYfyA](https://youtu.be/vjYpCTEYfyA)
 
 - 사용 기술
-    - Java
-    - Subversion -> Git, Github
-    - Android Support - appcompat, cardview, recyclerview, design, exifinterface, v4, v7, constraintlayout, multidex
-    - Firebase - Crashlytics, App Distribution, FCM
-    - Retrofit, Okhttp
-    - GMS - Google Plus, maps, location, auth, places, GA
-    - AWS - aws core, s3
-    - Facebook SDK - login
-    - Kakao SDK - kakaolink, kakaostory, kakaotalk
-    - Lombok, Butterknife, tagsoup, Apache commons-lang3 & commons-io, commons-collections4, picasso, rippleeffect, circularprogressview, wasabeef-recyclerview-animator, EventBus, ez-vcard, PhotoView, overscroll-decor-android, debug-db
-    - leakcanary-android, squareup-haha
-    - JgraphT, Glide
-    - Sentry, Fabric, adbrix
-    - Custom Library - Calendar, Tooltip, FloatingActionButton, SwipeLayout, SlideDateTimePicker, GoogleMapsAndroidMarkerClustering
-    - proguard
+    - 언어: Java
+    - 아키텍처: MVC 
+    - RecyclerView, Exifinterface, ConstraintLayout 
+    - Firebase: Crashlytics, App Distribution, FCM
+    - 네트워크: Retrofit, Okhttp
+    - 라이브러리
+        - GMS: Google Plus, maps, location, auth, places, GA
+        - AWS: aws core, s3
+        - Facebook SDK - login
+        - Kakao SDK - kakaolink, kakaostory, kakaotalk
+        - Lombok, ButterKnife, TagSoup, Apache commons, Picasso, EventBus, ez-vcard, PhotoView
+        - leakcanary-android, squareup-haha
+        - JgraphT, Glide
+        - Custom Library: Calendar, Tooltip, FloatingActionButton, SwipeLayout, SlideDateTimePicker, GoogleMapsAndroidMarkerClustering
+        - ProGuard
+    - 버전 관리: Subversion -> Git, Github
+    - 이슈 분석 및 도구: Sentry, Fabric, adbrix
 
 <img src="/image/dp1.png" width="20%" height="20%"> <img src="/image/dp2.png" width="20%" height="20%"> <img src="/image/dp3.png" width="20%" height="20%">
 <img src="/image/dp4.png" width="20%" height="20%"> <img src="/image/dp5.png" width="20%" height="20%"> <img src="/image/dp6.png" width="20%" height="20%">
@@ -88,8 +90,9 @@
 - [https://youtu.be/TRG9usdJWJ4](https://youtu.be/TRG9usdJWJ4?t=35)
 
 - 사용 기술
-    - Java
-    - Plastic SCM
+    - 언어: Java
+    - 아키텍처: MVC 
+    - 버전 관리: Plastic SCM
     - Android Support Library, appcompat, design, palette, recyclerview
     - Jdom, U+appMarketExternalLib(LG U+용)
     - SKY SDK - ListView, Button 등등 디자인 컴포넌트 위주.
