@@ -2,28 +2,46 @@
 
 ## 키친보드(도도카트)
 
-- 스포카
+- Company: Spoqa(스포카)
 - 식자재 유통 중계 플랫폼 서비스 키친보드 매장 안드로이드 앱
-  - [식자재 명세표 자동 정리](https://youtu.be/XdRuzcY46uI)
+  - [키친보드](https://kitchenboard.co.kr/)
+  - [식자재 명세표 자동 정리](https://youtu.be/XdRuzcY46uI) : 23' 3월 기능 종료
   - [키친보드(도도카트) - 비용관리, 주문](https://play.google.com/store/apps/details?id=com.spoqa.ops)
-- 사용 기술
-  - 언어: Kotlin
-  - 아키텍처: MVVM 기반 AAC ViewModel, LiveData, DataBinding; Clean Architecture
-  - 의존성 주입: Hilt
-  - 네트워크: GraphQL, Apollo
-  - 비동기 처리: Kotlin Coroutine, Flow
-  - 외부 서비스
-    - 파이어베이스(Cloud Messages, RemoteConfig, Analytics, CrashLytics, App Distribution)
-    - 카카오 로그인
-  - 버전 관리 및 배포: Github, CircleCI
-  - 이슈 분석 및 도구: Sentry
+- Tech Spec
+  - Language: Kotlin, Java
+  - Architecture: MVVM 기반 AAC ViewModel, LiveData, DataBinding; Clean Architecture Oriented
+  - Dependency Injection: Hilt
+  - Network: GraphQL using Apollo
+  - Asynchronous Processing: Kotlin Coroutine, Flow
+  - External Service, API & Tools
+    - Firebase
+      - Cloud Messages, RemoteConfig, Analytics, CrashLytics, App Distribution, Dynamic Links
+    - Kakao
+      - Kakao Login
+    - Sendbird Chat
+  - Version Control & Deployment: Github, CircleCI
+  - Issue Tracking & Analysis: Sentry
+  - User Analysis: Google Analytics, AppsFlyer, Insider
 
 ## 키친보드 유통사
 
-- 스포카
+- Company: Spoqa(스포카)
 - 식자재 유통 중계 플랫폼 서비스 키친보드 유통사 안드로이드 앱
+  - [키친보드](https://kitchenboard.co.kr/)
   - [키친보드 - 유통사](https://play.google.com/store/apps/details?id=com.spoqa.app.vendor)
-- 사용 기술
+- Tech Spec
+  - Language: Kotlin, Java
+  - Architecture: MVVM 기반 AAC ViewModel, LiveData, DataBinding; Clean Architecture Oriented
+  - Dependency Injection: Hilt
+  - Network: GraphQL using Apollo
+  - Asynchronous Processing: Kotlin Coroutine, Flow
+  - External Service, API & Tools
+    - Firebase
+      - Cloud Messages, RemoteConfig, Analytics, CrashLytics, App Distribution
+    - Sendbird Chat
+  - Version Control & Deployment: Github, CircleCI
+  - Issue Tracking & Analysis: Sentry
+  - User Analysis: Google Analytics
 
 ## 마카롱 택시
 
