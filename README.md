@@ -1,5 +1,54 @@
 # 프로젝트
 
+## Amondz(아몬즈)
+
+- Company: Bejewel(비주얼)
+- 주얼리 커머스 서비스 안드로이드 앱
+  - [아몬즈](https://www.amondz.com/)
+  - [아몬즈 – 주얼리, a부터 z까지](https://play.google.com/store/apps/details?id=com.amondz)
+- Tech Spec
+  - Language: Kotlin
+  - Architecture
+    - MVVM 기반 AAC ViewModel, LiveData, DataBinding; Clean Architecture Oriented
+    - XML-based and Jetpack Compose-based UI
+    - ADS(Amondz Design System)
+  - Dependency Injection: Hilt
+  - Network: Rest API-based Retrofit
+  - Asynchronous Processing: Kotlin Coroutine, Flow
+  - External Service, API & Tools
+    - Firebase
+      - Cloud Messages, RemoteConfig, Analytics, CrashLytics, App Distribution, Dynamic Links, Performance, A/B Test
+    - SNS login
+      - Kakao, Naver, Facebook
+  - Version Control & Deployment: Git, Github Actions
+  - Issue Tracking & Analysis: Firebase Crashlytics, Android Vital
+  - User Analysis: Firebase Analytics, AppsFlyer, Braze, Amplitude, Airbridge
+  - Etc: Zai(Recommendation), Channel Talk
+- [세부사항](amondz/amondz.md)
+
+## Wavve(웨이브)
+
+- Company: Contentwavve(콘텐츠웨이브)
+- OTT 서비스 안드로이드 앱
+  - [Wavve](https://www.wavve.com/)
+  - [Wavve(웨이브)](https://play.google.com/store/apps/details?id=kr.co.captv.pooqV2)
+- Tech Spec
+  - Language: Kotlin, Java
+  - Architecture
+    - MVP + MVVM 기반 AAC ViewModel, LiveData, DataBinding
+    - XML-based and Jetpack Compose-based UI
+  - Dependency Injection: Hilt
+  - Network: Rest API-based Retrofit
+  - Asynchronous Processing: Kotlin Coroutine, Flow
+  - External Service, API & Tools
+    - Firebase
+      - Cloud Messages, Analytics, CrashLytics, Dynamic Links
+    - SNS login
+      - Kakao, Naver, Facebook, T ID, Apple
+  - Version Control & Deployment: Git, Gitlab
+  - Issue Tracking & Analysis: Android Vital
+  - User Analysis: Google Analytics, Braze
+
 ## 키친보드(도도카트)
 
 - Company: Spoqa(스포카)
